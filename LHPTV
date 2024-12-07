@@ -10,6 +10,7 @@
 
 兵器科技,http://60.7.56.33:4000/rtp/239.253.93.47:6435
 兵器科技,http://60.7.56.33:4000/rtp/239.253.92.119:8065
+
 广东卫视,http://123.112.19.67:8012/rtp/239.3.1.142:8048
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 湖南卫视,http://123.112.19.67:8012/rtp/239.3.1.132:8012
@@ -30,43 +31,69 @@
 CCTV-8 电视剧,http://183.94.146.109:2222/tsfile/live/0008_1.m3u8
 
 CCTV,#genre#
+
 CCTV-1 综合,http://39.165.196.149:9003//hls/1/index.m3u8
 CCTV-1 综合,http://27.41.245.2:9003//hls/4/index.m3u8
+CCTV-1 综合,http://dd.ddzb.fun/php/migu.php?id=cctv1
+
 CCTV-2 财经,http://123.166.61.70:8003/hls/12/index.m3u8
 CCTV-2 财经,http://115.60.241.249:2000/rtp/225.1.4.74:1103
+CCTV-2 财经,http://dd.ddzb.fun/php/migu.php?id=cctv2
 CCTV-3 综艺,http://42.48.50.232:9002/tsfile/live/0003_1.m3u8
 CCTV-3 综艺,http://115.60.241.249:2000/rtp/225.1.4.158:1194
+CCTV-3 综艺,http://dd.ddzb.fun/php/migu.php?id=cctv3
+
 CCTV-4 中文国际,http://123.166.61.70:8003/hls/41/index.m3u8
 CCTV-4 中文国际,http://61.173.144.157:9901/tsfile/live/0004_1.m3u8
 CCTV-4 中文国际,http://112.101.78.50:9901/tsfile/live/0004_1.m3u8
 CCTV-4 中文国际,http://60.12.183.46:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV-4 中文国际,http://dd.ddzb.fun/php/migu.php?id=cctv4
+
 CCTV-5 体育,http://42.48.50.232:9002/tsfile/live/0005_1.m3u8
 CCTV-5 体育,http://115.60.241.249:2000/rtp/225.1.4.159:1195
+CCTV-5 体育,http://dd.ddzb.fun/php/migu.php?id=cctv5
 CCTV-5+ 体育赛事,http://115.60.241.249:2000/rtp/225.1.4.75:1104
+CCTV-5+ 体育赛事,http://dd.ddzb.fun/php/migu.php?id=cctv5p
+
 CCTV-6 电影,http://42.48.50.232:9002/tsfile/live/0006_1.m3u8
 CCTV-6 电影,http://115.60.241.249:2000/rtp/225.1.4.160:1196
 CCTV-6 电影,https://epg.pw/stream/63514d6a0cc1d233f91a13749a64b5271fed4f84f47cc884e189a42a4837d620.m3u8
+CCTV-6 电影,http://dd.ddzb.fun/php/migu.php?id=cctv6
+
+
 CCTV-7 国防军事,http://123.166.61.70:8003/hls/42/index.m3u8
 CCTV-7 国防军事,http://42.48.50.232:9002/tsfile/live/0007_1.m3u8
 CCTV-7 国防军事,http://115.60.241.249:2000/rtp/225.1.4.76:1105
+CCTV-7 国防军事http://dd.ddzb.fun/php/migu.php?id=cctv7
+
 CCTV-8 电视剧,http://42.48.50.232:9002/tsfile/live/0008_1.m3u8
 CCTV-8 电视剧,http://115.60.241.249:2000/rtp/225.1.4.161:1197
+CCTV-8 电视剧,http://dd.ddzb.fun/php/migu.php?id=cctv8
+
 CCTV-9 纪录,http://42.48.50.232:9002/tsfile/live/0009_1.m3u8
 CCTV-9 纪录,http://115.60.241.249:2000/rtp/225.1.4.77:1106
+CCTV-9 纪录,http://dd.ddzb.fun/php/migu.php?id=cctv9
 CCTV-10 科教,http://115.60.241.249:2000/rtp/225.1.4.78:1107
+CCTV-10 科教,http://dd.ddzb.fun/php/migu.php?id=cctv10
 CCTV-11 戏曲,http://123.166.61.70:8003/hls/43/index.m3u8
 CCTV-11 戏曲,http://115.60.241.249:2000/rtp/225.1.4.215:1268
+CCTV-11 戏曲,http://dd.ddzb.fun/php/migu.php?id=cctv11
 CCTV-12 社会与法,http://42.48.50.232:9002/tsfile/live/0012_1.m3u8
 CCTV-12 社会与法,http://115.60.241.249:2000/rtp/225.1.4.79:1108
+CCTV-12 社会与法,http://dd.ddzb.fun/php/migu.php?id=cctv12
 CCTV-13 新闻,http://42.48.50.232:9002/tsfile/live/0013_1.m3u8
 CCTV-13 新闻,http://115.60.241.249:2000/rtp/225.1.4.113:1293
+CCTV-13 新闻,http://dd.ddzb.fun/php/migu.php?id=cctv13
+CCTV-14 少儿,http://dd.ddzb.fun/php/migu.php?id=cctv14
 CCTV-14 少儿,http://42.48.50.232:9002/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,http://115.60.241.249:2000/rtp/225.1.4.80:1109
 CCTV-15 音乐,http://42.48.50.232:9002/tsfile/live/0015_1.m3u8
 CCTV-15 音乐,http://115.60.241.249:2000/rtp/225.1.4.216:1269
+CCTV-15 音乐,http://dd.ddzb.fun/php/migu.php?id=cctv15
 CCTV-16 奥林匹克,http://115.60.241.249:2000/rtp/225.1.5.46:1356
 CCTV-16 奥林匹克,http://123.166.61.70:8003/hls/16/index.m3u8
 CCTV-17 农业农村,http://115.60.241.249:2000/rtp/225.1.4.226:2506
+CCTV-17 农业农村,http://dd.ddzb.fun/php/migu.php?id=cctv17
 
 卫视,#genre#
 湖南卫视,http://123.112.19.67:8012/rtp/239.3.1.132:8012
@@ -163,6 +190,7 @@ CCTV-17 农业农村,http://115.60.241.249:2000/rtp/225.1.4.226:2506
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+
 翡翠台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
@@ -171,6 +199,7 @@ CCTV-17 农业农村,http://115.60.241.249:2000/rtp/225.1.4.226:2506
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+
 TVB翡翠剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
 TVB翡翠剧集,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b42-golive.flv
 无线新闻,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
@@ -439,8 +468,6 @@ tvbs欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 龙华电影,http://litv.zapi.us.kg/?id=litv-longturn03
 龙华戏剧,http://litv.zapi.us.kg/?id=litv-longturn18
 龙华经典,http://litv.zapi.us.kg/?id=litv-longturn21
-国会壹台,http://litv.zapi.us.kg/?id=4gtv-4gtv084
-国会贰台,http://litv.zapi.us.kg/?id=4gtv-4gtv085
 好消息壹,http://litv.zapi.us.kg/?id=litv-ftv16
 好消息贰,http://litv.zapi.us.kg/?id=litv-ftv17
 智林体育,http://litv.zapi.us.kg/?id=4gtv-4gtv101
@@ -453,13 +480,6 @@ tvbs欢乐,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 博斯无限壹台,http://litv.zapi.us.kg/?id=litv-longturn10
 博斯无限贰台,http://litv.zapi.us.kg/?id=litv-longturn13
 阿里郎台,http://litv.zapi.us.kg/?id=4gtv-4gtv079
-达文西台,http://litv.zapi.us.kg/?id=4gtv-4gtv018
-猪哥亮歌厅台,http://litv.zapi.us.kg/?id=4gtv-4gtv006
-亚洲旅游,http://litv.zapi.us.kg/?id=litv-longturn17
-美国之音,http://litv.zapi.us.kg/?id=litv-ftv03
-半岛新闻,http://litv.zapi.us.kg/?id=litv-ftv10
-非凡商业,http://litv.zapi.us.kg/?id=4gtv-4gtv048
-第壹商业,http://litv.zapi.us.kg/?id=4gtv-4gtv109
 爱放动漫,http://litv.zapi.us.kg/?id=litv-ftv15
 古典音乐,http://litv.zapi.us.kg/?id=4gtv-4gtv059
 客家电视,http://litv.zapi.us.kg/?id=4gtv-4gtv043
