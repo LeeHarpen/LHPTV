@@ -1,6 +1,12 @@
 收藏,#genre#
 汕头综合,http://14.112.86.101:4022/udp/239.77.1.130:5146
+汕头综合,http://113.111.16.104:8888/udp/239.77.1.130:5146
+汕头综合,http://113.93.29.222:8088/udp/239.77.1.130:5146
+
 汕头经济,http://14.112.86.101:4022/udp/239.77.1.131:5146
+汕头经济,http://113.93.29.222:8088/udp/239.77.1.131:5146
+汕头经济,http://113.90.246.252:4000/udp/239.77.1.131:5146
+汕头经济,http://113.111.16.104:8888/udp/239.77.1.131:5146
 
 凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -12,6 +18,7 @@
 
 凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港,https://stream1.freetv.fun/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.ctv$LR•IPV4『线路11』
 
 兵器科技,http://60.7.56.33:4000/rtp/239.253.93.47:6435
 兵器科技,http://60.7.56.33:4000/rtp/239.253.92.119:8065
