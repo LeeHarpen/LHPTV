@@ -608,36 +608,17 @@ Wu Tang Collection,https://stream-us-east-1.getpublica.com/playlist.m3u8?network
 日韩,#genre#
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 NHK東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
 日本テレビ,https://ntv4.mov3.co/hls/ntv.m3u8
 日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-日本テレビ,https://stream1.freetv.fun/bs-nippon-tv-1.m3u8
-日本テレビ,https://stream1.freetv.fun/dddf9e551521abad0957ee71747f68909fb711344ad730bea304e6b43aaa2010.m3u8
-日本テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&checkedby:iptvcat.com
-日本テレビ,https://vnpt.nekocdn.xyz/427b3914-a2b4-401b-b5ed-706158d73908.m3u8
-日本テレビ,https://test.zapi.us.kg/?id=nippon-tv
-TBSテレビ,https://tbs4.mov3.co/hls/tbs.m3u8
+TBSテレビ,https://tbs5.mov3.co/hls/tbs.m3u8
 TBSテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-TBSテレビ,https://stream1.freetv.fun/tbs-3.m3u8
-TBSテレビ,https://stream1.freetv.fun/tbs-9.m3u8
-TBSテレビ,https://stream1.freetv.fun/d608cb711dd440cf06923989ae33fe405362bd1d0c9a8204becd1f9e19d8e6b9.m3u8
-TBSテレビ,https://stream1.freetv.fun/4213ac3df420b97d586529210d0a15ce0c41ccb7e1500d8a43f6247319ffdaff.m3u8
 TBSテレビ,http://143.244.60.30/TBS/index.m3u8
 TBSテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&checkedby:iptvcat.com
-TBSテレビ,https://stream1.freetv.fun/4213ac3df420b97d586529210d0a15ce0c41ccb7e1500d8a43f6247319ffdaff.m3u8
-TBSテレビ,https://stream1.freetv.fun/1e9f9c3eb13a44084c2376805b82625c2bb9c973d14ae95c3cedd761026ad0ed.ctv
-TBSテレビ,https://stream1.freetv.fun/d608cb711dd440cf06923989ae33fe405362bd1d0c9a8204becd1f9e19d8e6b9.m3u8
-TBSテレビ,https://stream1.freetv.fun/61e0cd3510f0345fa4f1f27cbc11db48772ecc672696114d5233d905253e36ab.m3u8
-TBSテレビ,https://stream1.freetv.fun/aecf90238426287ffc12b9fde23ada6ad9d4169bd77bd363f90bc46669471727.m3u8
-
 テレビ朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 テレビ朝日,https://stream1.freetv.fun/terebizhao-ri-5.m3u8
-テレビ朝日,https://stream1.freetv.fun/de7a62f9e29c24fb27171fac99c13db2543f77b205337b11904153bdb8a5961f.m3u8
-テレビ朝日,https://stream1.freetv.fun/131f1e5be364e853ef2b49f706d494b1769e5e9e47dbccc4d5e8004b5ea30345.m3u8
-テレビ朝日,https://stream1.freetv.fun/8fbdf54fdbd66757b0e02d13092c82bb36dcd52ffb64f21ac22f0095df5498c6.m3u8
-テレビ朝日,https://stream1.freetv.fun/58d0554bd604449e5e51815de31b24f1630722a58819a84b24559f961a8d2591.m3u8
 テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&checkedby:iptvcat.com
 テレビ朝日,https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
-
 
 テレビ東京,https://stream1.freetv.fun/77714aa5956570a5907e5e55ef323ea12684fca4913ee5bfafa482a2a1662ca9.m3u8
 テレビ東京,https://stream1.freetv.fun/tv-tokyo-1.m3u8
@@ -648,10 +629,12 @@ TBSテレビ,https://stream1.freetv.fun/aecf90238426287ffc12b9fde23ada6ad9d4169b
 テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&checkedby:iptvcat.com
 テレビ東京,https://vnpt.nekocdn.xyz/memfs/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
 テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&checkedby:iptvcat.com
-
+フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
 フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 フジテレビ,https://stream1.freetv.fun/41d4dbb12435fdf6a9372ad82080eaf5a24414c9aed526443baf97d9b599ee7c.m3u8
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
+
+Tokyo MX1,https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
 NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK E,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 NHK G,https://nhk4.mov3.co/hls/nhk.m3u8
