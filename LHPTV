@@ -20,14 +20,12 @@
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-凤凰香港,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4782&tk=97475bb89d45
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 
 兵器科技,http://120.6.209.42:8866/udp/239.253.93.47:6435
 兵器科技,http://60.7.56.33:4000/udp/239.253.93.47:6435,0.43
 兵器科技,http://60.7.56.22:4000/udp/239.253.93.47:6435,0.3
-
 广东卫视,http://123.112.19.67:8012/rtp/239.3.1.142:8048
 广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 湖南卫视,http://123.112.19.67:8012/rtp/239.3.1.132:8012
@@ -52,7 +50,6 @@ CCTV,#genre#
 CCTV-1 综合,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv1
 CCTV-1 综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5789&tk=97475bb89d45
 CCTV-1 综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8072&tk=97475bb89d45
-CCTV-1 综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2964&tk=97475bb89d45
 
 CCTV-2 财经,http://150.158.112.123/公众号~玉玉软件库/mg.php?id=cctv2
 CCTV-2 财经,http://123.166.61.70:8003/hls/12/index.m3u8
