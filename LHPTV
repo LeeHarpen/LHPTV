@@ -13,15 +13,13 @@
 凤凰中文,http://163.177.123.161:9901/tsfile/live/1017_1.m3u8
 凤凰中文,http://wouu.net:9977/udp/239.93.0.162:2192
 凤凰中文,http://wouu.net:9977/udp/239.93.1.9:2192
-凤凰中文,https://stream1.freetv.fun/2cd8b0d0e8b7bda9c76ae4e0d554782532055b48e88e266f743eaa21ca7e44e0.ctv
 凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
-凤凰资讯,http://114.105.184.92:9901/tsfile/live/1071_1.m3u8
-凤凰资讯,http://146.56.153.245:20121/bysid/257
-凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
-凤凰资讯,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.183:9086
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰资讯,http://cdn5.1678520.xyz:80/live/live2.1.php?id=fhzx
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,http://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 凤凰香港,http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
+
 兵器科技,http://120.6.209.42:8866/udp/239.253.93.47:6435
 兵器科技,http://60.7.56.33:4000/udp/239.253.93.47:6435,0.43
 兵器科技,http://60.7.56.22:4000/udp/239.253.93.47:6435,0.3
@@ -811,6 +809,7 @@ TBSテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=
 テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&checkedby:iptvcat.com
 テレビ朝日,https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
 
+テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&checkedby:iptvcat.com
 テレビ東京,https://stream1.freetv.fun/77714aa5956570a5907e5e55ef323ea12684fca4913ee5bfafa482a2a1662ca9.m3u8
 テレビ東京,https://stream1.freetv.fun/tv-tokyo-1.m3u8
 テレビ東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -819,7 +818,6 @@ TBSテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=
 テレビ東京,https://stream1.freetv.fun/7f6a4b5705277cf797e4e47ad062fc2d61a314087adf026b6fa266f9580af95b.m3u8
 テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&checkedby:iptvcat.com
 テレビ東京,https://vnpt.nekocdn.xyz/memfs/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
-テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&checkedby:iptvcat.com
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
 フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 フジテレビ,https://stream1.freetv.fun/41d4dbb12435fdf6a9372ad82080eaf5a24414c9aed526443baf97d9b599ee7c.m3u8
