@@ -621,6 +621,9 @@ ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 卡通,#genre#
 i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 Animax TW,https://stream1.freetv.fun/bb2b8e0f01a5e5b57c6d72c7fe23179d953ca9843b2831a2c3a96a06d337b71f.m3u8
+Animax HD,https://stream1.freetv.fun/animax-9.m3u8
+Animax HD,https://stream1.freetv.fun/animax-1.m3u8
+
 靖洋卡通,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057
 靖天卡通,https://litv.zapi.us.kg/?id=4gtv-4gtv044
 靖天卡通,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv044
@@ -703,22 +706,28 @@ TBSテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=
 テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&checkedby:iptvcat.com
 テレビ朝日,https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
 
+テレビ東京,https://stream1.freetv.fun/tv-tokyo-1.m3u8
 テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&checkedby:iptvcat.com
 テレビ東京,https://stream1.freetv.fun/77714aa5956570a5907e5e55ef323ea12684fca4913ee5bfafa482a2a1662ca9.m3u8
-テレビ東京,https://stream1.freetv.fun/tv-tokyo-1.m3u8
 テレビ東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 テレビ東京,https://stream1.freetv.fun/tv-tokyo-2.m3u8
 テレビ東京,https://stream1.freetv.fun/a0397bdd1d658e2c39a663735f4ca70176566004909525a09d5f0e3980b702be.m3u8
 テレビ東京,https://stream1.freetv.fun/7f6a4b5705277cf797e4e47ad062fc2d61a314087adf026b6fa266f9580af95b.m3u8
 テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&checkedby:iptvcat.com
 テレビ東京,https://vnpt.nekocdn.xyz/memfs/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
+
 フジテレビ,https://stream1.freetv.fun/fuji-tv-4.m3u8
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
 フジテレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 フジテレビ,https://stream1.freetv.fun/41d4dbb12435fdf6a9372ad82080eaf5a24414c9aed526443baf97d9b599ee7c.m3u8
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
 
-Tokyo MX1,https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
+TOKYO MX,https://stream1.freetv.fun/tokyo-mx1-6.m3u8
+Tokyo MX,https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX1/master.m3u8
+
+Animax,https://stream1.freetv.fun/animax-9.m3u8
+Animax,https://stream1.freetv.fun/animax-1.m3u8
+
 NHK BS1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK E,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
 NHK G,https://nhk4.mov3.co/hls/nhk.m3u8
