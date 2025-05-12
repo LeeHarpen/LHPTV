@@ -51,121 +51,117 @@
 广东珠江,http://120.238.94.10:9901/tsfile/live/1009_1.m3u8
 
 CCTV,#genre#
-CCTV-1 综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv1
+CCTV-1 综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv1
 CCTV-1 综合,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV-1 综合,http://114.241.222.154:4022/rtp/239.3.1.129:8008
 CCTV-1 综合,http://goo.bkpcp.top/mg/cctv1
 
-CCTV-2 财经,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv2
+CCTV-2 财经,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv2
 CCTV-2 财经,http://114.241.222.154:4022/rtp/239.3.1.60:8084
 CCTV-2 财经,http://goo.bkpcp.top/mg/cctv2
 CCTV-2 财经,http://119.91.33.253/migu.php?id=cctv2
 CCTV-2 财经,http://106.53.99.30/dl/bjyd.php?id=1
 
-CCTV-3 综艺,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv3
+CCTV-3 综艺,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv3
 CCTV-3 综艺,http://114.241.222.154:4022/rtp/239.3.1.172:8001
 CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3
 CCTV-3 综艺,http://119.91.33.253/migu.php?id=cctv3
 CCTV-3 综艺,http://106.53.99.30/dl/bjyd.php?id=3
 CCTV-3 综艺,http://115.60.241.249:2000/rtp/225.1.4.158:1194
 
-CCTV-4 中文国际,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv4
+CCTV-4 中文国际,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv4
 CCTV-4 中文国际,http://114.241.222.154:4022/rtp/239.3.1.105:8092
 CCTV-4 中文国际,http://goo.bkpcp.top/mg/cctv4
 CCTV-4 中文国际,http://120.76.248.139/live/bfgd/4200000063.m3u8
 CCTV-4 中文国际,http://e2.woc.iiiya.cn:28888/rtp/239.61.5.56:1025
 
-CCTV-5 体育,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv5
+CCTV-5 体育,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv5
 CCTV-5 体育,http://114.241.222.154:4022/rtp/239.3.1.173:8001
 CCTV-5 体育,http://goo.bkpcp.top/mg/cctv5
 CCTV-5 体育,http://42.48.50.232:9002/tsfile/live/0005_1.m3u8
 CCTV-5 体育,http://119.91.33.253/migu.php?id=cctv5
 
-CCTV-5+ 体育赛事,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv5p
+CCTV-5+ 体育赛事,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv5p
 CCTV-5+ 体育赛事,http://114.241.222.154:4022/rtp/239.3.1.130:8004
 CCTV-5+ 体育赛事,http://goo.bkpcp.top/mg/cctv5p
 CCTV-5+ 体育赛事,http://119.91.33.253/migu.php?id=cctv5p
 
-CCTV-6 电影,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv6
+CCTV-6 电影,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv6
 CCTV-6 电影,http://114.241.222.154:4022/rtp/239.3.1.174:8001
 CCTV-6 电影,http://goo.bkpcp.top/mg/cctv6
 CCTV-6 电影,http://42.48.50.232:9002/tsfile/live/0006_1.m3u8
 CCTV-6 电影,http://115.60.241.249:2000/rtp/225.1.4.160:1196
 CCTV-6 电影,http://119.91.33.253/migu.php?id=cctv6
 
-CCTV-7 国防军事,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv7
+CCTV-7 国防军事,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv7
 CCTV-7 国防军事,http://114.241.222.154:4022/rtp/239.3.1.61:8104
 CCTV-7 国防军事,http://goo.bkpcp.top/mg/cctv7
 CCTV-7 国防军事,http://123.166.61.70:8003/hls/42/index.m3u8
 CCTV-7 国防军事,http://119.91.33.253/migu.php?id=cctv7
 CCTV-7 国防军事,http://106.53.99.30/dl/bjyd.php?id=4
 
-CCTV-8 电视剧,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv8
+CCTV-8 电视剧,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv8
 CCTV-8 电视剧,http://114.241.222.154:4022/rtp/239.3.1.175:8001
 CCTV-8 电视剧,http://goo.bkpcp.top/mg/cctv8
 CCTV-8 电视剧,http://119.91.33.253/migu.php?id=cctv8
 CCTV-8 电视剧,http://42.48.50.232:9002/tsfile/live/0008_1.m3u8
 CCTV-8 电视剧,http://115.60.241.249:2000/rtp/225.1.4.161:1197
 
-CCTV-9 纪录,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv9
+CCTV-9 纪录,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv9
 CCTV-9 纪录,http://114.241.222.154:4022/rtp/239.3.1.62:8112
 CCTV-9 纪录,http://goo.bkpcp.top/mg/cctv9
 CCTV-9 纪录,http://119.91.33.253/migu.php?id=cctv9
 CCTV-9 纪录,http://106.53.99.30/dl/bjyd.php?id=5
 CCTV-9 纪录,http://115.60.241.249:2000/rtp/225.1.4.77:1106
 
-CCTV-10 科教,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv10
+CCTV-10 科教,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv10
 CCTV-10 科教,http://114.241.222.154:4022/rtp/239.3.1.63:8116
 CCTV-10 科教,http://goo.bkpcp.top/mg/cctv10
 CCTV-10 科教,http://119.91.33.253/migu.php?id=cctv10
 
-CCTV-11 戏曲,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv11
+CCTV-11 戏曲,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv11
 CCTV-11 戏曲,http://114.241.222.154:4022/rtp/239.3.1.152:8120
 CCTV-11 戏曲,http://goo.bkpcp.top/mg/cctv11
 CCTV-11 戏曲,http://119.91.33.253/migu.php?id=cctv11
 CCTV-11 戏曲,http://106.53.99.30/dl/bjyd.php?id=7
 
-CCTV-12 社会与法,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv12
+CCTV-12 社会与法,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv12
 CCTV-12 社会与法,http://114.241.222.154:4022/rtp/239.3.1.64:8124
 CCTV-12 社会与法,http://goo.bkpcp.top/mg/cctv12
 CCTV-12 社会与法,http://119.91.33.253/migu.php?id=cctv12
 CCTV-12 社会与法,http://106.53.99.30/dl/bjyd.php?id=8
 
-CCTV-13 新闻,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv13
+CCTV-13 新闻,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv13
 CCTV-13 新闻,http://114.241.222.154:4022/rtp/239.3.1.124:8128
 CCTV-13 新闻,http://goo.bkpcp.top/mg/cctv13
 CCTV-13 新闻,http://119.91.33.253/migu.php?id=cctv13
 CCTV-13 新闻,http://42.48.50.232:9002/tsfile/live/0013_1.m3u8
 CCTV-13 新闻,http://115.60.241.249:2000/rtp/225.1.4.113:1293
 
-CCTV-14 少儿,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv14
+CCTV-14 少儿,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv14
 CCTV-14 少儿,http://114.241.222.154:4022/rtp/239.3.1.65:8132
 CCTV-14 少儿,http://goo.bkpcp.top/mg/cctv14
 CCTV-14 少儿,http://119.91.33.253/migu.php?id=cctv14
 CCTV-14 少儿,http://106.53.99.30/dl/bjyd.php?id=10
 
-CCTV-15 音乐,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv15
+CCTV-15 音乐,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv15
 CCTV-15 音乐,http://114.241.222.154:4022/rtp/239.3.1.153:8136
 CCTV-15 音乐,http://goo.bkpcp.top/mg/cctv15
 CCTV-15 音乐,http://106.53.99.30/dl/bjyd.php?id=11
 CCTV-15 音乐,http://119.91.33.253/migu.php?id=cctv15 
 
-CCTV-17 农业农村,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cctv17
+CCTV-17 农业农村,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv17
 CCTV-17 农业农村,http://goo.bkpcp.top/mg/cctv17
 CCTV-17 农业农村,http://119.91.33.253/migu.php?id=cctv17
 CCTV-17 农业农村,http://114.241.222.154:4022/rtp/239.3.1.151:8144
 
 CCTV-兵器科技,http://113.104.186.100:7088/udp/239.253.43.9:5146
 CCTV-第一剧场,http://113.104.186.100:7088/udp/239.253.43.15:5146
-CCTV-电视指南,http://113.104.186.100:7088/udp/239.253.43.10:5146
 CCTV-风云剧场,http://113.104.186.100:7088/udp/239.253.43.16:5146
 CCTV-风云音乐,http://113.104.186.100:7088/udp/239.253.43.6:5146
 CCTV-风云足球,http://113.104.186.100:7088/udp/239.253.43.14:5146
-CCTV-高尔夫·网球,http://113.104.186.100:7088/udp/239.253.43.12:5146
 CCTV-怀旧剧场,http://113.104.186.100:7088/udp/239.253.43.5:5146
-CCTV-女性时尚,http://113.104.186.100:7088/udp/239.253.43.8:5146
 CCTV-世界地理,http://113.104.186.100:7088/udp/239.253.43.7:5146
-CCTV-央视台球,http://113.104.186.100:7088/udp/239.253.43.11:5146
 CCTV-文化精品,http://113.104.186.100:7088/udp/239.253.43.13:5146
 
 卫视,#genre#
@@ -190,39 +186,31 @@ CCTV-文化精品,http://113.104.186.100:7088/udp/239.253.43.13:5146
 江西卫视,http://114.241.222.154:4022/rtp/239.3.1.123:8164
 北京卫视,http://114.241.219.123:4022/rtp/239.3.1.241:8000
 
-北京卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=bjws
-东方卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=dfws
-天津卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=tjws
-重庆卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=cqws
-黑龙江卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=hljws
-吉林卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=jlws
-延边卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=ybws
-辽宁卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=lnws
-内蒙古卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=nmws
-宁夏卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=nxws
-甘肃卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=gsws
-青海卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=qhws
-陕西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=sxws
-河北卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=hbws
-山西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=sxiws
-山东卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=sdws
-安徽卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=ahws
-河南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=hnws
-湖北卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=hubws
-湖南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=hunws
-江西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=jxws
-江苏卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=jsws
-浙江卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=zjws
-东南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=dnws
-广东卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=gdws
-深圳卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=szws
-广西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=gxws
-贵州卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=gzws
-四川卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=scws
-新疆卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=xjws
-兵团卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=btws
-西藏卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=xzws
-海南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/itv.php?id=hinws
+东方卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dfws
+重庆卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cqws
+吉林卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jlws
+辽宁卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=lnws
+内蒙古卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=nmws
+宁夏卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=nxws
+甘肃卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gsws
+青海卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=qhws
+陕西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=sxws
+山东卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=sdws
+河南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hnws
+湖北卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hubws
+湖南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hunws
+江西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jxws
+江苏卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=jsws
+东南卫视x,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dnws
+海峡卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hxws
+广东卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gdws
+大湾区卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=dwqws
+广西卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gxws
+云南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=ynws
+贵州卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=gzws
+新疆卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=xjws
+西藏卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=xzws
+海南卫视,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=hinws
 
 湖南卫视,http://111.193.226.105:4022/rtp/239.3.1.132:8012
 东方卫视,http://111.193.226.105:4022/rtp/239.3.1.136:8032
@@ -2492,10 +2480,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 青田电视,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed?
 青田电视,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 青田电视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e271d5&tk=6949f8ce7202
-龙泉新闻,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed?
-龙游新闻,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?
-龙游新闻,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-
 
 ☘️山东频道,#genre#
 山东少儿,http://111.14.181.15:9901/tsfile/live/1005_1.m3u8?key=tvbox6_com&playlive=1&authid=0
@@ -2711,221 +2695,3 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500k/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 菏泽经济生活,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8?shandd
-
-
-上海频道,#genre#
-新闻综合,http://p2.vzan.com/slowlive/596867413819827251/live.m3u8
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5985&tk=e640d0a1bf70
-新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5599&tk=2aca1ad9a849
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-15.m3u8
-新闻综合,https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
-新闻综合,http://api3.52tb.xyz/info?id=371&token=20221127jxwhhemby
-新闻综合,http://z.b.bkpcp.top/m.php?id=shxw
-新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8"
-新闻综合,https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-3.m3u8
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=571c9f&tk=6949f8ce7202
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-9.m3u8
-新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-2.m3u8
-新闻综合,https://cm-live.ntjoy.com/live/4f1.m3u8
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-5.m3u8
-新闻综合,https://stream1.freetv.fun/ipv6-xin-wen-zong-he-7.m3u8
-新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-新闻综合,http://www.xzbn.site:35455/itv/5000000011000031110.m3u8?cdn=bestzb
-新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-1.m3u8
-新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8&quot;
-新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746379256&key=0f50abfb27cedee7672bcf626d21f83b
-新闻综合,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5014&tk=a0c4f6cfaba3
-新闻综合,https://stream1.freetv.fun/ipv6-xin-wen-zong-he-10.m3u8
-新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-8.m3u8
-新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746292937&key=2c0730250b4adabbdab89ad23f78c053
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0708&tk=23a9aca1f79f
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0610&tk=b53028476470
-新闻综合,https://xatv-yt.xiancity.cn/live/1/index.m3u8
-新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2394&tk=e503191f8e20
-新闻综合,https://live.pzhkai.com/xwzhtl/sd/live.m3u8
-新闻综合,https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8&amp;quot;
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2810&tk=a0c4f6cfaba3
-新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-12.m3u8
-新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-6.ctv
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-3.m3u8
-新闻综合,https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-7.m3u8
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-14.m3u8
-新闻综合,https://stream1.freetv.fun/ipv6-xin-wen-zong-he-14.m3u8
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2865&tk=f6cc1e0a0e1a
-新闻综合,https://www.freetv.top/migu/651632657.m3u8?migutoken=5ae42e8fda034ab7bf5171dafa0043e70cd12bcd716940c4572fde52ea92b0785f16f1bdbce4c83f5e075b250fe95668f19f8527dda57c27db24f95d412614d99c86a3a2d9341d88b5224b7068
-新闻综合,http://api2.52tb.xyz/info?id=371&token=20230218qkyjia
-新闻综合,https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-2.m3u8
-新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-3.m3u8
-新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746307365&key=934041caefb0bfa77af7ffc44707320c
-新闻综合,https://stream1.freetv.fun/shang-hai-xin-wen-zong-he-10.m3u8
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-1.ctv
-新闻综合,https://stream1.freetv.fun/ipv6-shang-hai-xin-wen-zong-he-6.m3u8
-新闻综合,http://139.196.151.191:2051/rtp/239.45.3.209:5140
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-11.ctv
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-13.m3u8
-新闻综合,https://stream1.freetv.fun/xin-wen-zong-he-2.m3u8
-新闻综合,https://www.freetv.top/migu/651632657.m3u8?migutoken=b4a3e55048f55ec1c8fc5b509fbdf32f2dc5d255f5f218e79e84ca9a87fb9f2239927cb11b448f18285b50b81b4cd50a1354e9be5a3283375e85372798c3f3eb3ad60adf45eb5615f68eb4825f
-新闻综合,https://live.lalifeier.eu.org/kankanews/shxwzh.m3u8?t=1746393735&key=647ef0ee7c08241a915702c9b6f16960
-新闻综合,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2441&tk=e640d0a1bf70
-新闻综合,http://139.129.231.228/rtp/239.21.1.193:5002
-东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-12.m3u8
-东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-13.m3u8
-东方影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1407&tk=e503191f8e20
-东方影视,http://www.xzbn.site:35455/itv/5000000010000032212.m3u8?cdn=bestzb
-东方影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1285&tk=2aca1ad9a849
-东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-9.m3u8
-东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-6.m3u8
-东方影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6090&tk=b53028476470
-东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-5.m3u8
-东方影视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2690&tk=e640d0a1bf70
-东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-1.m3u8
-东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-2.m3u8
-东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
-东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-4.ctv
-东方影视,http://gat.bkpcp.top/ymg.php?id=shys
-东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-3.m3u8
-东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-6.ctv
-东方影视,http://z.b.bkpcp.top/m.php?id=dfys
-东方影视,https://stream1.freetv.fun/ipv6-dong-fang-ying-shi-8.m3u8
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746292937&key=3725d08baa89daf1e05599a00bdac978
-上海都市,http://www.zhch682022.cn:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-1.m3u8
-上海都市,http://mvfn.zhch1968.com:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-4.m3u8
-上海都市,https://stream1.freetv.fun/shang-hai-du-shi-7.m3u8
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-10.m3u8
-上海都市,https://stream1.freetv.fun/shang-hai-du-shi-10.m3u8
-上海都市,http://t8622699o8.vicp.fun:60024/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-11.m3u8
-上海都市,http://feiyang.ak47s.top:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3713&tk=bd38c03a3ce1
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-3.m3u8
-上海都市,http://api3.52tb.xyz/info?id=372&amp;token=20221127jxwhhemby
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-8.m3u8
-上海都市,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6990&tk=23a9aca1f79f
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-6.m3u8
-上海都市,https://stream1.freetv.fun/shang-hai-du-shi-1.m3u8
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-7.m3u8
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-2.m3u8
-上海都市,https://stream1.freetv.fun/ipv6-shang-hai-du-shi-5.m3u8
-上海都市,http://api3.52tb.xyz/info?id=372&token=20221127jxwhhemby
-上海都市,https://live.lalifeier.eu.org/kankanews/shds.m3u8?t=1746307365&key=635dd803224a560866c81f72aae510a0
-上海都市,http://www.xzbn.site:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海都市,http://api3.52tb.xyz/info?id=372&amp;amp;token=20221127jxwhhemby
-上海都市,http://yc.myds.me:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4640&tk=e503191f8e20
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4663&tk=f6cc1e0a0e1a
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-5.m3u8
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-10.m3u8
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7436&tk=b53028476470
-第一财经,http://120.55.49.231:3095/rtp/233.50.200.125:5140
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8820&tk=e640d0a1bf70
-第一财经,http://live.xmcdn.com/live/56/64.m3u8
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-12.m3u8
-第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-3.m3u8
-第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=94882e783c75b9369ca6a018f97fe3a3c0018f9da123958e316bb810ef22e907f0672a7d63496e5cb5041eb125b1f1ee6996ac856b0c0c9828348878b8a4101384b9a851fb1dea60a7fafeea35
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-6.ctv
-第一财经,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746292937&key=8dbd6113ce0541e6b92e8f47782ef1f6
-第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-6.m3u8
-第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-1.ctv
-第一财经,http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
-第一财经,http://139.196.151.191:2051/rtp/239.45.3.211:5140
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0771&tk=a0c4f6cfaba3
-第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-8.m3u8
-第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-4.m3u8
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6806&tk=a0c4f6cfaba3
-第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-7.m3u8
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8321&tk=e640d0a1bf70
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746379256&key=e6deaa8fc1e0662447be8f3b7c649f70
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746393735&key=7b164ddded8a7d9ea3ba4a8d86999077
-第一财经,http://ls.qingting.fm/live/276.m3u8
-第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-11.m3u8
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4810&tk=23a9aca1f79f
-第一财经,https://live.lalifeier.eu.org/kankanews/dycj.m3u8?t=1746307365&key=7477fec974c356ed2cf91be43a1dc893
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0917&tk=2aca1ad9a849
-第一财经,http://www.xzbn.site:35455/itv/5000000010000027146.m3u8?cdn=bestzb
-第一财经,http://yc.myds.me:35455/itv/5000000010000027146.m3u8?cdn=bestzb
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-7.m3u8
-第一财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6b01dd&tk=6949f8ce7202
-第一财经,https://stream1.freetv.fun/ipv6-di-yi-cai-jing-5.m3u8
-第一财经,http://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-9.m3u8
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-13.m3u8
-第一财经,https://www.freetv.top/migu/608780988.m3u8?migutoken=62e21890acbd9928d0be0b4eae9f5e32e1879604b785ee7ce8751d5001a9ff431d7714025aa03d48a2b190ff214e5115dcb6ba455c3d26b1db0f5b3cb49c5967429ff3b1fe8e96e87cc6146543
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-3.m3u8
-第一财经,https://stream1.freetv.fun/di-yi-cai-jing-2.m3u8
-东方财经,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4946&tk=97475bb89d45
-东方财经,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.76:8450
-东方财经,http://124.248.69.76:26781/douyu/9548279
-东方财经,http://yc.myds.me:35455/itv/5000000007000010003.m3u8?cdn=bestzb
-东方财经,http://qjrhc.jydjd.top:2911/udp/224.1.100.141:11111
-东方财经,http://61.133.118.228:5001/douyu/9548279
-东方财经,http://www.xzbn.site:35455/itv/5000000007000010003.m3u8?cdn=bestzb
-东方财经,http://wouu.net:9977/udp/239.93.1.165:5140
-东方财经,http://nas.hssvm.com:8888/udp/225.1.1.87:5002
-东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
-上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-2.m3u8
-上海纪实,http://www.xzbn.site:35455/itv/5000000004000010282.m3u8?cdn=bestzb
-上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-3.m3u8
-上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
-上海纪实,http://13457610200.8866.org:2018/live/上海纪实/index.m3u8
-上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-1.m3u8
-上海纪实,https://stream1.freetv.fun/shang-hai-ji-shi-ren-wen-1.m3u8
-上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-5.m3u8
-上海纪实,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010067
-上海纪实,http://139.129.231.228/rtp/239.21.1.171:5002
-上海纪实,http://wouu.net:9977/udp/239.93.1.137:5140
-上海纪实,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5196&tk=23a9aca1f79f
-上海外语,http://139.196.151.191:2051/rtp/239.45.1.127:5140
-上海外语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2446&tk=e640d0a1bf70
-上海外语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6608&tk=e503191f8e20
-上海外语,https://live.lalifeier.eu.org/kankanews/shics.m3u8?t=1746307365&key=5923d8473fb7e7c254f421fd5c26ed51
-上海外语,http://139.196.151.191/rtp/239.45.1.127:5140
-上海外语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0017&tk=a0c4f6cfaba3
-上海外语,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1734&tk=b53028476470
-生活时尚,http://nas.hssvm.com:8888/udp/225.1.1.143:5002
-生活时尚,http://home.wwang.pw:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-25.m3u8
-生活时尚,http://146.56.165.66:7788/TVOD/5000000002000019634/bestzb/index.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-29.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-29.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-24.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-11.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-27.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-13.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-19.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-28.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-6.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-14.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-9.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-18.ctv
-生活时尚,https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-14.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-24.m3u8
-生活时尚,http://e1.woc.iiiya.cn:8888/rtp/239.61.2.141:8834
-生活时尚,https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-7.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-25.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-18.m3u8
-生活时尚,http://139.196.151.191:2051/rtp/239.45.3.132:5140
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-10.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-5.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-1.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-4.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-23.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-9.m3u8
-生活时尚,https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-2.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-22.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-11.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-12.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-26.m3u8
-生活时尚,http://wouu.net:9977/udp/239.93.42.29:5140
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-2.ctv
-生活时尚,https://stream1.freetv.fun/ipv6-sheng-huo-shi-shang-5.m3u8
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-17.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-20.ctv
-生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-13.m3u8
-生活时尚,http://www.xzbn.site:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-生活时尚,http://wouu.net:9977/udp/239.93.0.106:5140
