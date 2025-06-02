@@ -7,24 +7,14 @@
 凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
-凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
 
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰资讯,http://iptv.diyp.site/公众号【DIYP】.php?key=gat10&id=7
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016
-凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
-凤凰香港,http://iptv.diyp.site/公众号【DIYP】.php?key=gat11&id=4
 凤凰香港,http://lzoq.serv00.net/daili/Smartv.php?id=hkphoenix_twn
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 
@@ -249,27 +239,18 @@ CCTV-文化精品,http://113.104.186.100:7088/udp/239.253.43.13:5146
 江西卫视,http://114.241.219.123:4022/rtp/239.3.1.123:8164
 
 港澳📶,#genre#
+
 凤凰中文,http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
 凤凰中文,http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 凤凰中文,http://120.198.101.106:9901/tsfile/live/1062_1.m3u8?key=txiptv
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
-凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
-凤凰中文,http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
 
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
-凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰资讯,http://iptv.diyp.site/公众号【DIYP】.php?key=gat10&id=7
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
-凤凰香港,http://live4play.uk/livehttpplay?channel_id=30016
-凤凰香港,http://live4play.uk/livehttpplay?channel_id=20067
-凤凰香港,http://iptv.diyp.site/公众号【DIYP】.php?key=gat11&id=4
 凤凰香港,http://lzoq.serv00.net/daili/Smartv.php?id=hkphoenix_twn
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 
@@ -280,8 +261,6 @@ CCTV-文化精品,http://113.104.186.100:7088/udp/239.253.43.13:5146
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 
 无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
@@ -289,9 +268,7 @@ CCTV-文化精品,http://113.104.186.100:7088/udp/239.253.43.13:5146
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
@@ -328,6 +305,7 @@ TVBS新闻,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
 
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
 
+中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://122.117.71.103:8526/http/61.222.53.250:8081/hls/67/809/ch26.m3u8
 中天综合,http://122.117.71.103:8525/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 
@@ -340,18 +318,21 @@ Animax TW,https://stream1.freetv.fun/bb2b8e0f01a5e5b57c6d72c7fe23179d953ca9843b2
 八大戏剧,http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/808/ch23.m3u8
 八大戏剧,http://122.117.71.103:8530/http/61.222.53.250:8081/hls/66/806/ch23.m3u8
 八大第一,http://122.117.71.103:8518/http/61.222.53.250:8081/hls/66/808/ch22.m3u8
-八大第一,http://108.181.21.27:27347/livehttpplay?channel_id=20073
-八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+八大第一,http://50.7.234.10:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
 
 八大综合,http://108.181.21.27:27347/livehttpplay?channel_id=20068
 八大综合,http://122.117.71.103:8519/http/61.222.53.250:8081/hls/66/808/ch21.m3u8
 八大精彩,https://stream1.freetv.fun/ba-da-jing-cai-1.ctv
 八大精彩,http://108.181.21.27:27347/livehttpplay?channel_id=20052
 
+东森幼幼,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
+中视HD,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+中视HD,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 东森电影,http://iptv12k.com:35461/live/test167/12345/1254.m3u8
-中视HD,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
 中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 
 台视新闻,https://stream1.freetv.fun/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
@@ -371,6 +352,8 @@ Animax TW,https://stream1.freetv.fun/bb2b8e0f01a5e5b57c6d72c7fe23179d953ca9843b2
 民视,https://stream1.freetv.fun/min-shi-10.ctv
 民视,https://stream1.freetv.fun/min-shi-2.m3u8
 民视新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20097
+
+寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
 寰宇新闻,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
 寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-2.m3u8
 
