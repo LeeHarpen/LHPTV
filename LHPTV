@@ -4,10 +4,6 @@
 汕头经济,http://tv.zzlag.top:9003/hls/4/index.m3u8
 汕头经济,http://14.117.233.23:9001/udp/239.77.1.131:5146
 
-凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
-凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-凤凰中文,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
-凤凰中文,https://migu.188766.xyz/?migutoken=84d5d7f41690cd27f929432c61787daa&id=fhzw&pp=1
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
@@ -15,25 +11,18 @@
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
-凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-凤凰资讯,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
-凤凰资讯,https://migu.188766.xyz/?migutoken=b7d0941acda9d07d829a3100d140acde&id=fhzx&pp=1
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
-凤凰香港,https://migu.188766.xyz/?migutoken=a699318b4641779e7ebb4e4d4b2f7bff&id=fhhk&pp=1
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
-凤凰香港,http://124.95.180.107:6718/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -47,11 +36,11 @@
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
 
-无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 
 CCTV兵器科技,http://121.29.169.117:8888/rtp/239.253.93.47:6435
 CCTV兵器科技,http://121.29.169.117:7777/rtp/239.253.93.47:6435
@@ -61,22 +50,6 @@ CCTV兵器科技,http://121.29.215.236:7777/rtp/239.253.93.47:6435
 
 CCTV,#genre#
 CCTV-1综合,http://8.138.7.223/【公众号：榴芒电视】/cctv1.m3u8
-CCTV-2财经,http://8.138.7.223/【公众号：榴芒电视】/cctv2.m3u8
-CCTV-3综艺,http://8.138.7.223/【公众号：榴芒电视】/cctv3.m3u8
-CCTV-4中文国际,http://8.138.7.223/【公众号：榴芒电视】/cctv4.m3u8
-CCTV-5体育,http://8.138.7.223/【公众号：榴芒电视】/cctv5.m3u8
-CCTV-5+体育赛事,http://8.138.7.223/【公众号：榴芒电视】/cctv5p.m3u8
-CCTV-6电影,http://8.138.7.223/【公众号：榴芒电视】/cctv6.m3u8
-CCTV-7国防军事,http://8.138.7.223/【公众号：榴芒电视】/cctv7.m3u8
-CCTV-8电视剧,http://8.138.7.223/【公众号：榴芒电视】/cctv8.m3u8
-CCTV-9纪录,http://8.138.7.223/【公众号：榴芒电视】/cctv9.m3u8
-CCTV-10科教,http://8.138.7.223/【公众号：榴芒电视】/cctv10.m3u8
-CCTV-11戏曲,http://8.138.7.223/【公众号：榴芒电视】/cctv11.m3u8
-CCTV-12社会与法,http://8.138.7.223/【公众号：榴芒电视】/cctv12.m3u8
-CCTV-13新闻,http://8.138.7.223/【公众号：榴芒电视】/cctv13.m3u8
-CCTV-14少儿,http://8.138.7.223/【公众号：榴芒电视】/cctv14.m3u8
-CCTV-15音乐,http://8.138.7.223/【公众号：榴芒电视】/cctv15.m3u8
-CCTV-17农业农村,http://8.138.7.223/【公众号：榴芒电视】/cctv17.m3u8
 
 CCTV-1综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv1
 CCTV-2财经,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv2
@@ -265,10 +238,6 @@ CCTV兵器科技,http://121.29.215.236:7777/rtp/239.253.93.47:6435
 广东卫视,http://58.17.48.228:808/hls/36/index.m3u8
 
 港澳📶,#genre#
-凤凰中文,http://bx.757888.xyz/api.php?id=fhzw
-凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
-凤凰中文,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰中文台
-凤凰中文,https://migu.188766.xyz/?migutoken=84d5d7f41690cd27f929432c61787daa&id=fhzw&pp=1
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=30014
 凤凰中文,http://live4play.uk/livehttpplay?channel_id=20065
@@ -276,25 +245,18 @@ CCTV兵器科技,http://121.29.215.236:7777/rtp/239.253.93.47:6435
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
-凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
-凤凰资讯,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰资讯台
-凤凰资讯,https://migu.188766.xyz/?migutoken=b7d0941acda9d07d829a3100d140acde&id=fhzx&pp=1
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+凤凰资讯,http://bx.757888.xyz/api.php?id=fhzx
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰香港,http://api.mytv666.top/api/qwt.php?t=香港频道&id=凤凰香港台
-凤凰香港,https://migu.188766.xyz/?migutoken=a699318b4641779e7ebb4e4d4b2f7bff&id=fhhk&pp=1
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-凤凰香港,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
-凤凰香港,http://124.95.180.107:6718/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://bx.757888.xyz/api.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -308,11 +270,11 @@ CCTV兵器科技,http://121.29.215.236:7777/rtp/239.253.93.47:6435
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,https://s1.m16tv.cfd/aktv/CH-0/AKTV.m3u8
 
-无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
+无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=hualiTVB
 无线功夫,https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
