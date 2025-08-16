@@ -1,5 +1,4 @@
 收藏,#genre#
-汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-18.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-13.ctv
 汕头综合,http://tv.zzlag.top:9003/hls/3/index.m3u8
 汕头经济,http://183.7.17.30:8888/udp/239.253.43.46:5146
@@ -15,18 +14,18 @@
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
@@ -42,31 +41,63 @@
 无线新闻,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
 无线新闻,http://qwt.zhibotv.top:2016/全网通.php?id=无线新闻台
 
-CCTV兵器科技,http://121.29.169.117:8888/rtp/239.253.93.47:6435
-CCTV兵器科技,http://121.29.169.117:7777/rtp/239.253.93.47:6435
-CCTV兵器科技,http://121.29.169.89:7777/rtp/239.253.93.47:6435
-CCTV兵器科技,http://121.29.169.89:8888/rtp/239.253.93.47:6435
-CCTV兵器科技,http://121.29.215.236:7777/rtp/239.253.93.47:6435
+CCTV兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
 
 CCTV,#genre#
+CCTV-1综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv1.flv
+CCTV-1综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv1.flv
+CCTV-2财经,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv2.flv
+CCTV-2财经,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv2.flv
+CCTV-3综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv3.flv
+CCTV-3综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv3.flv
+CCTV-4中文国际,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv4.flv
+CCTV-4中文国际,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
+CCTV-5体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv5.flv
+CCTV-5体育,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5.flv
+CCTV-5+体育赛事,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv5p.flv
+CCTV-5+体育赛事,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv
+CCTV-6电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv6.flv
+CCTV-6电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv6.flv
+CCTV-7国防军事,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv7.flv
+CCTV-7国防军事,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV-8电视剧,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv8.flv
+CCTV-8电视剧,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv8.flv
+CCTV-9纪录,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv9.flv
+CCTV-9纪录,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv9.flv
+CCTV-10科教,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv10.flv
+CCTV-10科教,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv10.flv
+CCTV-11戏曲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv11.flv
+CCTV-11戏曲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv11.flv
+CCTV-12社会与法,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv12.flv
+CCTV-12社会与法,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv12.flv
+CCTV-13新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv13.flv
+CCTV-13新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv13.flv
+CCTV-14少儿,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv14.flv
+CCTV-14少儿,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv14.flv
+CCTV-15音乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv15.flv
+CCTV-15音乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv15.flv
+CCTV-16,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv16.flv
+CCTV-16,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv16.flv
+CCTV-17农业农村,http://push-rtmp-hs-spe-f5.douyincdn.com/live/cctv17.flv
+CCTV-17农业农村,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv17.flv
 
-CCTV-1综合,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv1
-CCTV-2财经,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv2
-CCTV-3综艺,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv3
-CCTV-4中文国际,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv4
-CCTV-5体育,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv5
-CCTV-5+体育赛事,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv5p
-CCTV-6电影,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv6
-CCTV-7国防军事,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv7
-CCTV-8电视剧,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv8
-CCTV-9纪录,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv9
-CCTV-10科教,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv10
-CCTV-11戏曲,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv11
-CCTV-12社会与法,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv12
-CCTV-13新闻,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv13
-CCTV-14少儿,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv14
-CCTV-15音乐,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv15
-CCTV-17农业农村,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv17
+CCTV-1综合,http://43.138.196.212/mi0gu.php?id=cctv1
+CCTV-2财经,http://43.138.196.212/mi0gu.php?id=cctv2
+CCTV-3综艺,http://43.138.196.212/mi0gu.php?id=cctv3
+CCTV-4中文国际,http://43.138.196.212/mi0gu.php?id=cctv4
+CCTV-5体育,http://43.138.196.212/mi0gu.php?id=cctv5
+CCTV-5+体育赛事,http://43.138.196.212/mi0gu.php?id=cctv5p
+CCTV-6电影,http://43.138.196.212/mi0gu.php?id=cctv6
+CCTV-7国防军事,http://43.138.196.212/mi0gu.php?id=cctv7
+CCTV-8电视剧,http://43.138.196.212/mi0gu.php?id=cctv8
+CCTV-9纪录,http://43.138.196.212/mi0gu.php?id=cctv9
+CCTV-10科教,http://43.138.196.212/mi0gu.php?id=cctv10
+CCTV-11戏曲,http://43.138.196.212/mi0gu.php?id=cctv11
+CCTV-12社会与法,http://43.138.196.212/mi0gu.php?id=cctv12
+CCTV-13新闻,http://43.138.196.212/mi0gu.php?id=cctv13
+CCTV-14少儿,http://43.138.196.212/mi0gu.php?id=cctv14
+CCTV-15音乐,http://43.138.196.212/mi0gu.php?id=cctv15
+CCTV-17农业农村,http://43.138.196.212/mi0gu.php?id=cctv17
 
 CCTV-1综合,http://www.dsk.cc/php/bfgd.php?id=cctv1
 CCTV-2财经,http://www.dsk.cc/php/bfgd.php?id=cctv2
@@ -121,6 +152,7 @@ CCTV-14少儿,https://cc06.tv12.xyz/15.m3u8
 CCTV-15音乐,https://cc06.tv12.xyz/16.m3u8
 CCTV-17农业农村,https://cc06.tv12.xyz/17.m3u8
 
+CCTV-1综合,http://106.53.99.30/tv/20250717.php?id=0001
 CCTV-2财经,http://119.91.33.253/migu.php?id=cctv2
 CCTV-2财经,http://106.53.99.30/dl/bjyd.php?id=1
 
@@ -150,8 +182,6 @@ CCTV-9纪录,http://115.60.241.249:2000/rtp/225.1.4.77:1106
 CCTV-10科教,http://111.194.233.250:4022/rtp/239.3.1.63:8116
 
 CCTV-11戏曲,http://111.194.233.250:4022/rtp/239.3.1.152:8120
-
-CCTV-12社会与法,http://150.158.112.123/公众号玉玉应用笔记/php/综合/migu1.php?id=cctv12
 
 CCTV-13新闻,http://goo.bkpcp.top/mg/cctv13
 
@@ -325,18 +355,18 @@ CCTV兵器科技,http://121.29.215.236:7777/rtp/239.253.93.47:6435
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 
 凤凰资讯,http://j.s.bkpcp.top/js/fhzx
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=20066
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,http://live4play.uk/livehttpplay?channel_id=30015
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
+凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
 
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
@@ -490,7 +520,6 @@ GOODTV好消息,https://stream1.freetv.fun/7e863d41fbb20975775323c59644b5d46c3a2
 
 
 广东频道,#genre#
-汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-18.ctv
 汕头综合,https://stream1.freetv.fun/shan-tou-zong-he-13.ctv
 汕头综合,http://tv.zzlag.top:9003/hls/3/index.m3u8
 汕头经济,http://183.7.17.30:8888/udp/239.253.43.46:5146
